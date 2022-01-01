@@ -1,7 +1,7 @@
 # Hello! 👋
 
-I am a student 🎓 at Queen Mary, University of London where I read BSc. Economics. <br />
-I currently work as a Software Engineer in 📍 Prague. Visit my personal [website](https://vcnguyen.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/viet-cuong-nguyen/).
+I am a student 🎓 at University College London where I study MSc. Computer Science. <br />
+I also currently work as a Software Engineer in between 🇬🇧 London - Canary Wharf and 🇨🇿 Prague - Karlín. Visit my personal [website](https://vcnguyen.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/viet-cuong-nguyen/).
 
 ### Here are some of my stats 📈 on Github 😸
 
@@ -24,7 +24,3 @@ Check out this **open source** project I contribute to & my currently ongoing **
         <img align="center" src="https://github-readme-stats.ryzzaki.vercel.app/api/pin/?username=ryzzaki&repo=sonicboom&show_owner=true&theme=onedark" alt="Personal Project" />
     </a>
 </div>
-
-<br/>
-
-`So long, and thanks for all the fish!`

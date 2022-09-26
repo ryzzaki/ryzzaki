@@ -3,4 +3,4 @@
 🎓 University College London for MSc. Computer Science. <br />
 💻 Fullstack Software Engineer & Web3 <br />
 ⚡️ `TypeScript` | `Solidity` | `Rust` <br />
-🔥 [Portfolio](https://vcnguyen.me) & [LinkedIn](https://www.linkedin.com/in/viet-cuong-nguyen/)
+🔥 [Portfolio](https://vcn.sh) & [LinkedIn](https://www.linkedin.com/in/viet-cuong-nguyen/)

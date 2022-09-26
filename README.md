@@ -1,4 +1,6 @@
-# Hello! 👋
+# <img src="https://media.giphy.com/media/l41lO0QvEQ8kjaIko/giphy.gif" width="100px" height="100px">
 
-I am a student 🎓 at University College London where I study MSc. Computer Science. <br />
-I also currently work as a Software Engineer in between 🇬🇧 London - Canary Wharf and 🇨🇿 Prague - Karlín. Visit my personal [website](https://vcnguyen.me) or connect with me on [LinkedIn](https://www.linkedin.com/in/viet-cuong-nguyen/).
+🎓 University College London for MSc. Computer Science. <br />
+💻 Fullstack Software Engineer & Web3 <br />
+⚡️ `TypeScript` | `Solidity` | `Rust` <br />
+🔥 [Portfolio](https://vcnguyen.me) & [LinkedIn](https://www.linkedin.com/in/viet-cuong-nguyen/)
